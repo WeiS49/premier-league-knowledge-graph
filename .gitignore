@@ -24,7 +24,6 @@ env/
 # Data files (too large for git)
 data/raw/
 data/processed/
-kg_artifacts/expanded.nt
 kge_data/
 
 # Model outputs
