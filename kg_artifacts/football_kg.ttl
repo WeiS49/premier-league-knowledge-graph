@@ -1,0 +1,877 @@
+@prefix fb: <http://example.org/football/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+fb:3rd_captain a fb:Person,
+        fb:Player ;
+    fb:name "3rd captain" ;
+    fb:playsFor fb:Crystal_Palace_FC .
+
+fb:Aaron_Hickey a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2002-06-10)10 June 2002"^^xsd:date ;
+    fb:name "Aaron Hickey" ;
+    fb:playsFor fb:Brentford_FC ;
+    fb:position "Full-back" .
+
+fb:Abdul_Fatawu a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2004-03-08)8 March 2004"^^xsd:date ;
+    fb:name "Abdul Fatawu" ;
+    fb:playsFor fb:Leicester_City_FC ;
+    fb:position "Winger" .
+
+fb:Adam_Webster a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1995-01-04)4 January 1995"^^xsd:date ;
+    fb:name "Adam Webster" ;
+    fb:playsFor fb:Brighton__Hove_Albion_FC ;
+    fb:position "Centre-back" .
+
+fb:Adrien_Truffert a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2001-11-20)20 November 2001"^^xsd:date ;
+    fb:name "Adrien Truffert" ;
+    fb:playsFor fb:AFC_Bournemouth ;
+    fb:position "Left-back" .
+
+fb:Alex_McCarthy a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1989-12-03)3 December 1989"^^xsd:date ;
+    fb:name "Alex McCarthy" ;
+    fb:playsFor fb:Southampton_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Alex_Palmer a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1996-08-10)10 August 1996"^^xsd:date ;
+    fb:name "Alex Palmer" ;
+    fb:playsFor fb:Ipswich_Town_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Alisson_Becker a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1992-10-02)2 October 1992"^^xsd:date ;
+    fb:name "Alisson Becker" ;
+    fb:playsFor fb:Liverpool_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Altay_Bayındır a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-04-14)14 April 1998"^^xsd:date ;
+    fb:name "Altay Bayındır" ;
+    fb:playsFor fb:Manchester_United_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Axel_Disasi a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-03-11)11 March 1998"^^xsd:date ;
+    fb:name "Axel Disasi" ;
+    fb:playsFor fb:West_Ham_United_FC ;
+    fb:position "Centre-back" .
+
+fb:Azor_Matusiwa a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-04-28)28 April 1998"^^xsd:date ;
+    fb:name "Azor Matusiwa" ;
+    fb:playsFor fb:Ipswich_Town_FC ;
+    fb:position "Defensive Midfielder" .
+
+fb:Bart_Verbruggen a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2002-08-18)18 August 2002"^^xsd:date ;
+    fb:name "Bart Verbruggen" ;
+    fb:playsFor fb:Brighton__Hove_Albion_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Bayern_Munich a fb:Person,
+        fb:Player ;
+    fb:name "Bayern Munich" ;
+    fb:playsFor fb:Tottenham_Hotspur_FC .
+
+fb:Ben_Nelson a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2004-03-18)18 March 2004"^^xsd:date ;
+    fb:name "Ben Nelson" ;
+    fb:playsFor fb:Leicester_City_FC ;
+    fb:position "Defender" .
+
+fb:Ben_White a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-10-08)8 October 1997"^^xsd:date ;
+    fb:name "Ben White" ;
+    fb:playsFor fb:Arsenal_FC ;
+    fb:position "Defender" .
+
+fb:Benoît_Badiashile a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2001-03-26)26 March 2001"^^xsd:date ;
+    fb:name "Benoît Badiashile" ;
+    fb:playsFor fb:Chelsea_FC ;
+    fb:position "Centre-back" .
+
+fb:Bernd_Leno a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1992-03-04)4 March 1992"^^xsd:date ;
+    fb:name "Bernd Leno" ;
+    fb:playsFor fb:Fulham_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Caleb_Okoli a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2001-07-13)13 July 2001"^^xsd:date ;
+    fb:name "Caleb Okoli" ;
+    fb:playsFor fb:Leicester_City_FC ;
+    fb:position "Centre-back" .
+
+fb:Callum_Hudson-Odoi a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2000-11-07)7 November 2000"^^xsd:date ;
+    fb:name "Callum Hudson-Odoi" ;
+    fb:playsFor fb:Nottingham_Forest_FC ;
+    fb:position "Winger" .
+
+fb:Calvin_Bassey a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-12-31)31 December 1999"^^xsd:date ;
+    fb:name "Calvin Bassey" ;
+    fb:playsFor fb:Fulham_FC .
+
+fb:Caoimhín_Kelleher a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-11-23)23 November 1998"^^xsd:date ;
+    fb:name "Caoimhín Kelleher" ;
+    fb:playsFor fb:Brentford_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Cristhian_Mosquera a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2004-06-27)27 June 2004"^^xsd:date ;
+    fb:name "Cristhian Mosquera" ;
+    fb:playsFor fb:Arsenal_FC ;
+    fb:position "Centre back" .
+
+fb:Crysencio_Summerville a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2001-10-30)30 October 2001"^^xsd:date ;
+    fb:name "Crysencio Summerville" ;
+    fb:playsFor fb:West_Ham_United_FC ;
+    fb:position "Winger" .
+
+fb:Cédric_Kipré a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1996-12-09)9 December 1996"^^xsd:date ;
+    fb:name "Cédric Kipré" ;
+    fb:playsFor fb:Ipswich_Town_FC ;
+    fb:position "Defender" .
+
+fb:Dan_Friedkin a fb:Person,
+        fb:Player ;
+    fb:birthDate "Thomas Dan Friedkin(1965-02-27)February 27, 1965San Diego, California, U.S."^^xsd:date ;
+    fb:name "Dan Friedkin" ;
+    fb:playsFor fb:Everton_FC .
+
+fb:Dan_Neil a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2001-12-13)13 December 2001"^^xsd:date ;
+    fb:name "Dan Neil" ;
+    fb:playsFor fb:Ipswich_Town_FC ;
+    fb:position "Defensive Midfielder" .
+
+fb:Daniel_Muñoz a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1996-05-26)26 May 1996"^^xsd:date ;
+    fb:name "Daniel Muñoz" ;
+    fb:playsFor fb:Crystal_Palace_FC ;
+    fb:position "Right-backright wing-back" .
+
+fb:David_Møller_Wolfe a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2002-04-23)23 April 2002"^^xsd:date ;
+    fb:name "David Møller Wolfe" ;
+    fb:playsFor fb:Wolverhampton_Wanderers_FC ;
+    fb:position "Left-backleft wing-back" .
+
+fb:David_Raya a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1995-09-15)15 September 1995"^^xsd:date ;
+    fb:name "David Raya" ;
+    fb:playsFor fb:Arsenal_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Dean_Henderson a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-03-12)12 March 1997"^^xsd:date ;
+    fb:name "Dean Henderson" ;
+    fb:playsFor fb:Crystal_Palace_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Diogo_Dalot a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-03-18)18 March 1999"^^xsd:date ;
+    fb:name "Diogo Dalot" ;
+    fb:playsFor fb:Manchester_United_FC .
+
+fb:Elliot_Anderson a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2002-11-06)6 November 2002"^^xsd:date ;
+    fb:name "Elliot Anderson" ;
+    fb:playsFor fb:Nottingham_Forest_FC .
+
+fb:Ethan_Pinnock a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1993-05-29)29 May 1993"^^xsd:date ;
+    fb:name "Ethan Pinnock" ;
+    fb:playsFor fb:Brentford_FC ;
+    fb:position "Centre-back" .
+
+fb:Ezri_Konsa a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-10-23)23 October 1997"^^xsd:date ;
+    fb:name "Ezri Konsa" ;
+    fb:playsFor fb:Aston_Villa_FC .
+
+fb:Fabian_Schär a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1991-12-20)20 December 1991"^^xsd:date ;
+    fb:name "Fabian Schär" ;
+    fb:playsFor fb:Newcastle_United_FC ;
+    fb:position "Centre-back" .
+
+fb:Farhad_Moshiri a fb:Person,
+        fb:Player ;
+    fb:birthDate "Ardavan Farhad Moshiri(1955-05-18)18 May 1955Iran"^^xsd:date ;
+    fb:name "Farhad Moshiri" ;
+    fb:playsFor fb:Everton_FC .
+
+fb:Flynn_Downes a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-01-20)20 January 1999"^^xsd:date ;
+    fb:name "Flynn Downes" ;
+    fb:playsFor fb:Southampton_FC ;
+    fb:position "Defensive Midfielder" .
+
+fb:Guglielmo_Vicario a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1996-10-07)7 October 1996"^^xsd:date ;
+    fb:name "Guglielmo Vicario" ;
+    fb:playsFor fb:Tottenham_Hotspur_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Harry_Maguire a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1993-03-05)5 March 1993"^^xsd:date ;
+    fb:name "Harry Maguire" ;
+    fb:playsFor fb:Manchester_United_FC ;
+    fb:position "Centre-back" .
+
+fb:Hugo_Bueno a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2002-09-18)18 September 2002"^^xsd:date ;
+    fb:name "Hugo Bueno" ;
+    fb:playsFor fb:Wolverhampton_Wanderers_FC .
+
+fb:Ibrahim_Sangaré a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-12-02)2 December 1997"^^xsd:date ;
+    fb:name "Ibrahim Sangaré" ;
+    fb:playsFor fb:Nottingham_Forest_FC ;
+    fb:position "Defensive Midfielder" .
+
+fb:Ibrahima_Konaté a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-05-25)25 May 1999"^^xsd:date ;
+    fb:name "Ibrahima Konaté" ;
+    fb:playsFor fb:Liverpool_FC ;
+    fb:position "Centre-back" .
+
+fb:Igor_Julio a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-02-07)7 February 1998"^^xsd:date ;
+    fb:name "Igor Julio" ;
+    fb:playsFor fb:Brighton__Hove_Albion_FC .
+
+fb:Jack_Stephens a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1994-01-27)27 January 1994"^^xsd:date ;
+    fb:name "Jack Stephens" ;
+    fb:playsFor fb:Southampton_FC ;
+    fb:position "Defender" .
+
+fb:Jakub_Stolarczyk a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2000-12-19)19 December 2000"^^xsd:date ;
+    fb:name "Jakub Stolarczyk" ;
+    fb:playsFor fb:Leicester_City_FC ;
+    fb:position "Goalkeeper" .
+
+fb:James_Trafford a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2002-10-10)10 October 2002"^^xsd:date ;
+    fb:name "James Trafford" ;
+    fb:playsFor fb:Manchester_City_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Jan_Paul_van_Hecke a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2000-06-08)8 June 2000"^^xsd:date ;
+    fb:name "Jan Paul van Hecke" ;
+    fb:playsFor fb:Brighton__Hove_Albion_FC ;
+    fb:position "Centre-back" .
+
+fb:Joachim_Andersen a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1996-05-31)31 May 1996"^^xsd:date ;
+    fb:name "Joachim Andersen" ;
+    fb:playsFor fb:Fulham_FC ;
+    fb:position "Centre-back" .
+
+fb:Joe_Gomez a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-05-23)23 May 1997"^^xsd:date ;
+    fb:name "Joe Gomez" ;
+    fb:playsFor fb:Liverpool_FC ;
+    fb:position "Defender" .
+
+fb:John_Stones a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1994-05-28)28 May 1994"^^xsd:date ;
+    fb:name "John Stones" ;
+    fb:playsFor fb:Manchester_City_FC .
+
+fb:Jordan_James a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2004-07-02)2 July 2004"^^xsd:date ;
+    fb:name "Jordan James" ;
+    fb:playsFor fb:Leicester_City_FC ;
+    fb:position "Central Midfielder" .
+
+fb:Jordan_Pickford a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1994-03-07)7 March 1994"^^xsd:date ;
+    fb:name "Jordan Pickford" ;
+    fb:playsFor fb:Everton_FC ;
+    fb:position "Goalkeeper" .
+
+fb:José_Sá a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1993-01-17)17 January 1993"^^xsd:date ;
+    fb:name "José Sá" ;
+    fb:playsFor fb:Wolverhampton_Wanderers_FC ;
+    fb:position "Goalkeeper" .
+
+fb:João_Palhinha a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1995-07-09)9 July 1995"^^xsd:date ;
+    fb:name "João Palhinha" ;
+    fb:playsFor fb:Tottenham_Hotspur_FC ;
+    fb:position "Defensive Midfielder" .
+
+fb:Julio_Soler a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2005-02-16)16 February 2005"^^xsd:date ;
+    fb:name "Julio Soler" ;
+    fb:playsFor fb:AFC_Bournemouth ;
+    fb:position "Left-back" .
+
+fb:Kenny_Tete a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1995-10-09)9 October 1995"^^xsd:date ;
+    fb:name "Kenny Tete" ;
+    fb:playsFor fb:Fulham_FC ;
+    fb:position "Right-back" .
+
+fb:Kevin_Danso a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-09-19)19 September 1998"^^xsd:date ;
+    fb:name "Kevin Danso" ;
+    fb:playsFor fb:Tottenham_Hotspur_FC ;
+    fb:position "Centre-back" .
+
+fb:Kieran_Trippier a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1990-09-19)19 September 1990"^^xsd:date ;
+    fb:name "Kieran Trippier" ;
+    fb:playsFor fb:Newcastle_United_FC ;
+    fb:position "Right-back" .
+
+fb:Kyle_Walker-Peters a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-04-13)13 April 1997"^^xsd:date ;
+    fb:name "Kyle Walker-Peters" ;
+    fb:playsFor fb:West_Ham_United_FC ;
+    fb:position "Full-back" .
+
+fb:Leeds_United a fb:Person,
+        fb:Player ;
+    fb:name "Leeds United" ;
+    fb:playsFor fb:Everton_FC .
+
+fb:Leif_Davis a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-12-31)31 December 1999"^^xsd:date ;
+    fb:name "Leif Davis" ;
+    fb:playsFor fb:Ipswich_Town_FC ;
+    fb:position "Left-back" .
+
+fb:Levi_Colwill a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2003-02-26)26 February 2003"^^xsd:date ;
+    fb:name "Levi Colwill" ;
+    fb:playsFor fb:Chelsea_FC ;
+    fb:position "Centre-back" .
+
+fb:Lewis_Cook a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-02-03)3 February 1997"^^xsd:date ;
+    fb:name "Lewis Cook" ;
+    fb:playsFor fb:AFC_Bournemouth ;
+    fb:position "Defensive Midfielder" .
+
+fb:Lewis_Dunk a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1991-11-21)21 November 1991"^^xsd:date ;
+    fb:name "Lewis Dunk" ;
+    fb:playsFor fb:Brighton__Hove_Albion_FC ;
+    fb:position "Centre-back" .
+
+fb:Lewis_Hall a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2004-09-08)8 September 2004"^^xsd:date ;
+    fb:name "Lewis Hall" ;
+    fb:playsFor fb:Newcastle_United_FC .
+
+fb:Mads_Hermansen a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2000-07-11)11 July 2000"^^xsd:date ;
+    fb:name "Mads Hermansen" ;
+    fb:playsFor fb:West_Ham_United_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Mads_Roerslev a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-06-24)24 June 1999"^^xsd:date ;
+    fb:name "Mads Roerslev" ;
+    fb:playsFor fb:Southampton_FC .
+
+fb:Marc_Cucurella a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-07-22)22 July 1998"^^xsd:date ;
+    fb:name "Marc Cucurella" ;
+    fb:playsFor fb:Chelsea_FC .
+
+fb:Marcos_Senesi a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-05-10)10 May 1997"^^xsd:date ;
+    fb:name "Marcos Senesi" ;
+    fb:playsFor fb:AFC_Bournemouth ;
+    fb:position "Centre-back" .
+
+fb:Matt_Doherty a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1992-01-16)16 January 1992"^^xsd:date ;
+    fb:name "Matt Doherty" ;
+    fb:playsFor fb:Wolverhampton_Wanderers_FC ;
+    fb:position "Full-backwing-backcentre-back" .
+
+fb:Matthijs_de_Ligt a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-08-12)12 August 1999"^^xsd:date ;
+    fb:name "Matthijs de Ligt" ;
+    fb:playsFor fb:Manchester_United_FC ;
+    fb:position "Centre-back" .
+
+fb:Matty_Cash a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-08-07)7 August 1997"^^xsd:date ;
+    fb:name "Matty Cash" ;
+    fb:playsFor fb:Aston_Villa_FC ;
+    fb:position "Right-back" .
+
+fb:Maxence_Lacroix a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2000-04-06)6 April 2000"^^xsd:date ;
+    fb:name "Maxence Lacroix" ;
+    fb:playsFor fb:Crystal_Palace_FC ;
+    fb:position "Centre-back" .
+
+fb:Maximilian_Kilman a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-05-23)23 May 1997"^^xsd:date ;
+    fb:name "Maximilian Kilman" ;
+    fb:playsFor fb:West_Ham_United_FC ;
+    fb:position "Centre-back" .
+
+fb:Nathan_Aké a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1995-02-18)18 February 1995"^^xsd:date ;
+    fb:name "Nathan Aké" ;
+    fb:playsFor fb:Manchester_City_FC .
+
+fb:Neco_Williams a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2001-04-13)13 April 2001"^^xsd:date ;
+    fb:name "Neco Williams" ;
+    fb:playsFor fb:Nottingham_Forest_FC ;
+    fb:position "Full-back" .
+
+fb:Nick_Pope a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1992-04-19)19 April 1992"^^xsd:date ;
+    fb:name "Nick Pope" ;
+    fb:playsFor fb:Newcastle_United_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Noussair_Mazraoui a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-11-14)14 November 1997"^^xsd:date ;
+    fb:name "Noussair Mazraoui" ;
+    fb:playsFor fb:Manchester_United_FC ;
+    fb:position "Defender" .
+
+fb:Piero_Hincapié a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2002-01-09)9 January 2002"^^xsd:date ;
+    fb:name "Piero Hincapié" ;
+    fb:playsFor fb:Arsenal_FC .
+
+fb:Radu_Drăgușin a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2002-02-03)3 February 2002"^^xsd:date ;
+    fb:name "Radu Drăgușin" ;
+    fb:playsFor fb:Tottenham_Hotspur_FC ;
+    fb:position "Defender" .
+
+fb:Rico_Henry a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-07-08)8 July 1997"^^xsd:date ;
+    fb:name "Rico Henry" ;
+    fb:playsFor fb:Brentford_FC ;
+    fb:position "Left-back" .
+
+fb:Robert_Sánchez a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-11-18)18 November 1997"^^xsd:date ;
+    fb:name "Robert Sánchez" ;
+    fb:playsFor fb:Chelsea_FC ;
+    fb:position "Goalkeeper" .
+
+fb:Ross_Barkley a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1993-12-05)5 December 1993"^^xsd:date ;
+    fb:name "Ross Barkley" ;
+    fb:playsFor fb:Aston_Villa_FC ;
+    fb:position "Midfielder" .
+
+fb:Ryan_Manning a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1996-06-14)14 June 1996"^^xsd:date ;
+    fb:name "Ryan Manning" ;
+    fb:playsFor fb:Southampton_FC .
+
+fb:Rúben_Dias a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-05-14)14 May 1997"^^xsd:date ;
+    fb:name "Rúben Dias" ;
+    fb:playsFor fb:Manchester_City_FC ;
+    fb:position "Centre-back" .
+
+fb:Santiago_Bueno a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-11-09)9 November 1998"^^xsd:date ;
+    fb:name "Santiago Bueno" ;
+    fb:playsFor fb:Wolverhampton_Wanderers_FC ;
+    fb:position "Centre-back" .
+
+fb:Sepp_van_den_Berg a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2001-12-20)20 December 2001"^^xsd:date ;
+    fb:name "Sepp van den Berg" ;
+    fb:playsFor fb:Brentford_FC ;
+    fb:position "Centre-backright-back" .
+
+fb:Sven_Botman a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2000-01-12)12 January 2000"^^xsd:date ;
+    fb:name "Sven Botman" ;
+    fb:playsFor fb:Newcastle_United_FC ;
+    fb:position "Centre-back" .
+
+fb:Taiwo_Awoniyi a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-08-12)12 August 1997"^^xsd:date ;
+    fb:name "Taiwo Awoniyi" ;
+    fb:playsFor fb:Nottingham_Forest_FC ;
+    fb:position "Striker" .
+
+fb:Tijjani_Reijnders a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1998-07-29)29 July 1998"^^xsd:date ;
+    fb:name "Tijjani Reijnders" ;
+    fb:playsFor fb:Manchester_City_FC ;
+    fb:position "Midfielder" .
+
+fb:Tosin_Adarabioyo a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1997-09-24)24 September 1997"^^xsd:date ;
+    fb:name "Tosin Adarabioyo" ;
+    fb:playsFor fb:Chelsea_FC ;
+    fb:position "Centre-back" .
+
+fb:Tyrick_Mitchell a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-09-01)1 September 1999"^^xsd:date ;
+    fb:name "Tyrick Mitchell" ;
+    fb:playsFor fb:Crystal_Palace_FC ;
+    fb:position "Left-backleft wing-back" .
+
+fb:Tyrone_Mings a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1993-03-13)13 March 1993"^^xsd:date ;
+    fb:name "Tyrone Mings" ;
+    fb:playsFor fb:Aston_Villa_FC ;
+    fb:position "Centre-back" .
+
+fb:Victor_Lindelöf a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1994-07-17)17 July 1994"^^xsd:date ;
+    fb:name "Victor Lindelöf" ;
+    fb:playsFor fb:Aston_Villa_FC ;
+    fb:position "Centre-back" .
+
+fb:Virgil_van_Dijk a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1991-07-08)8 July 1991"^^xsd:date ;
+    fb:name "Virgil van Dijk" ;
+    fb:playsFor fb:Liverpool_FC ;
+    fb:position "Centre-back" .
+
+fb:Wataru_Endo a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1993-02-09)9 February 1993"^^xsd:date ;
+    fb:name "Wataru Endo" ;
+    fb:playsFor fb:Liverpool_FC ;
+    fb:position "Defensive midfieldercentre-back" .
+
+fb:William_Saliba a fb:Person,
+        fb:Player ;
+    fb:birthDate "(2001-03-24)24 March 2001"^^xsd:date ;
+    fb:name "William Saliba" ;
+    fb:playsFor fb:Arsenal_FC ;
+    fb:position "Centre-back" .
+
+fb:Đorđe_Petrović a fb:Person,
+        fb:Player ;
+    fb:birthDate "(1999-10-08)8 October 1999"^^xsd:date ;
+    fb:name "Đorđe Petrović" ;
+    fb:playsFor fb:AFC_Bournemouth ;
+    fb:position "Goalkeeper" .
+
+fb:Andoni_Iraola a fb:Manager,
+        fb:Person ;
+    fb:name "Andoni Iraola" .
+
+fb:Arne_Slot a fb:Manager,
+        fb:Person ;
+    fb:name "Arne Slot" .
+
+fb:David_Moyes a fb:Manager,
+        fb:Person ;
+    fb:name "David Moyes" .
+
+fb:Eddie_Howe a fb:Manager,
+        fb:Person ;
+    fb:name "Eddie Howe" .
+
+fb:England a fb:Country ;
+    fb:name "England" .
+
+fb:Fabian_Hürzeler a fb:Manager,
+        fb:Person ;
+    fb:name "Fabian Hürzeler" .
+
+fb:Gary_Rowett a fb:Manager,
+        fb:Person ;
+    fb:name "Gary Rowett" .
+
+fb:Igor_Tudor a fb:Manager,
+        fb:Person ;
+    fb:name "Igor Tudor" .
+
+fb:Keith_Andrews a fb:Manager,
+        fb:Person ;
+    fb:name "Keith Andrews" .
+
+fb:Kieran_McKenna a fb:Manager,
+        fb:Person ;
+    fb:name "Kieran McKenna" .
+
+fb:Liam_Rosenior a fb:Manager,
+        fb:Person ;
+    fb:name "Liam Rosenior" .
+
+fb:Marco_Silva a fb:Manager,
+        fb:Person ;
+    fb:name "Marco Silva" .
+
+fb:Michael_Carrick a fb:Manager,
+        fb:Person ;
+    fb:name "Michael Carrick" .
+
+fb:Mikel_Arteta a fb:Manager,
+        fb:Person ;
+    fb:name "Mikel Arteta" .
+
+fb:Nuno_Espírito_Santo a fb:Manager,
+        fb:Person ;
+    fb:name "Nuno Espírito Santo" .
+
+fb:Oliver_Glasner a fb:Manager,
+        fb:Person ;
+    fb:name "Oliver Glasner" .
+
+fb:Pep_Guardiola a fb:Manager,
+        fb:Person ;
+    fb:name "Pep Guardiola" .
+
+fb:Rob_Edwards a fb:Manager,
+        fb:Person ;
+    fb:name "Rob Edwards" .
+
+fb:Tonda_Eckert a fb:Manager,
+        fb:Person ;
+    fb:name "Tonda Eckert" .
+
+fb:Unai_Emery a fb:Manager,
+        fb:Person ;
+    fb:name "Unai Emery" .
+
+fb:Vítor_Pereira a fb:Manager,
+        fb:Person ;
+    fb:name "Vítor Pereira" .
+
+fb:Everton_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1878; 148 years ago(1878)" ;
+    fb:managedBy fb:David_Moyes ;
+    fb:name "Everton F.C." .
+
+fb:Fulham_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1879; 147 years ago(1879)(asSt Andrews Cricket & Football Club)" ;
+    fb:managedBy fb:Marco_Silva ;
+    fb:name "Fulham F.C." .
+
+fb:AFC_Bournemouth a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1899; 127 years ago(1899)(asBoscombe)" ;
+    fb:managedBy fb:Andoni_Iraola ;
+    fb:name "AFC Bournemouth" .
+
+fb:Arsenal_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "October 1886; 139 years ago(1886-10), asDial Square" ;
+    fb:managedBy fb:Mikel_Arteta ;
+    fb:name "Arsenal F.C." .
+
+fb:Aston_Villa_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "21 November 1874; 151 years ago(1874-11-21)" ;
+    fb:managedBy fb:Unai_Emery ;
+    fb:name "Aston Villa F.C." .
+
+fb:Brentford_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "10 October 1889; 136 years ago(1889-10-10)" ;
+    fb:managedBy fb:Keith_Andrews ;
+    fb:name "Brentford F.C." .
+
+fb:Brighton__Hove_Albion_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "24 June 1901; 124 years ago(1901-06-24)" ;
+    fb:managedBy fb:Fabian_Hürzeler ;
+    fb:name "Brighton & Hove Albion F.C." .
+
+fb:Chelsea_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "10 March 1905; 121 years ago(1905-03-10)" ;
+    fb:managedBy fb:Liam_Rosenior ;
+    fb:name "Chelsea F.C." .
+
+fb:Crystal_Palace_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "10 September 1905; 120 years ago(1905-09-10)" ;
+    fb:managedBy fb:Oliver_Glasner ;
+    fb:name "Crystal Palace F.C." .
+
+fb:Ipswich_Town_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "16 October 1878; 147 years ago(16 October 1878)" ;
+    fb:managedBy fb:Kieran_McKenna ;
+    fb:name "Ipswich Town F.C." .
+
+fb:Leicester_City_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1884; 142 years ago(1884)(asLeicester Fosse F.C.)" ;
+    fb:managedBy fb:Gary_Rowett ;
+    fb:name "Leicester City F.C." .
+
+fb:Liverpool_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "3 June 1892; 133 years ago(1892-06-03)" ;
+    fb:managedBy fb:Arne_Slot ;
+    fb:name "Liverpool F.C." .
+
+fb:Manchester_City_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1880; 146 years ago(1880)as St. Mark's (West Gorton)1887; 139 years ago(1887)as Ardwick Association F.C.16 April 1894; 131 years ago(1894-04-16)as Manchester City" ;
+    fb:managedBy fb:Pep_Guardiola ;
+    fb:name "Manchester City F.C." .
+
+fb:Manchester_United_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1878; 148 years ago(1878)(as Newton Heath LYR F.C.)24 April 1902; 123 years ago(1902-04-24)(as Manchester United F.C.)" ;
+    fb:managedBy fb:Michael_Carrick ;
+    fb:name "Manchester United F.C." .
+
+fb:Newcastle_United_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1881; 145 years ago(1881)(asStanley F.C.)1882; 144 years ago(1882)(asEast End F.C.)1892; 134 years ago(1892)(asNewcastle United F.C.)" ;
+    fb:managedBy fb:Eddie_Howe ;
+    fb:name "Newcastle United F.C." .
+
+fb:Nottingham_Forest_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1865; 161 years ago(1865)" ;
+    fb:managedBy fb:Vítor_Pereira ;
+    fb:name "Nottingham Forest F.C." .
+
+fb:Southampton_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "21 November 1885; 140 years ago(1885-11-21)(asSt. Mary's Y.M.A.)" ;
+    fb:managedBy fb:Tonda_Eckert ;
+    fb:name "Southampton F.C." .
+
+fb:Tottenham_Hotspur_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "5 September 1882; 143 years ago(1882-09-05), as Hotspur F.C." ;
+    fb:managedBy fb:Igor_Tudor ;
+    fb:name "Tottenham Hotspur F.C." .
+
+fb:West_Ham_United_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "29 June 1895; 130 years ago(1895-06-29), asThames Ironworks5 July 1900; 125 years ago(1900-07-05), as West Ham United" ;
+    fb:managedBy fb:Nuno_Espírito_Santo ;
+    fb:name "West Ham United F.C." .
+
+fb:Wolverhampton_Wanderers_FC a fb:Team ;
+    fb:competesIn fb:Premier_League ;
+    fb:foundedIn "1877; 149 years ago(1877), asSt. Luke's F.C." ;
+    fb:managedBy fb:Rob_Edwards ;
+    fb:name "Wolverhampton Wanderers F.C." .
+
+fb:Premier_League a fb:League ;
+    fb:country fb:England ;
+    fb:foundedIn "1992" ;
+    fb:name "Premier League" ;
+    fb:numberOfTeams 20 .
+

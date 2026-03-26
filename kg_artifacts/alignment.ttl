@@ -1,0 +1,307 @@
+@prefix fb: <http://example.org/football/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+fb:AFC_Bournemouth owl:sameAs wd:Q19568 .
+
+fb:Aaron_Hickey owl:sameAs wd:Q64010525 .
+
+fb:Abdul_Fatawu owl:sameAs wd:Q105812639 .
+
+fb:Adam_Webster owl:sameAs wd:Q4679961 .
+
+fb:Adrien_Truffert owl:sameAs wd:Q98198106 .
+
+fb:Alex_Palmer owl:sameAs wd:Q60733809 .
+
+fb:Alisson_Becker owl:sameAs wd:Q18237361 .
+
+fb:Altay_Bayındır owl:sameAs wd:Q57415806 .
+
+fb:Andoni_Iraola owl:sameAs wd:Q317216 .
+
+fb:Arne_Slot owl:sameAs wd:Q1029223 .
+
+fb:Arsenal_FC owl:sameAs wd:Q9617 .
+
+fb:Aston_Villa_FC owl:sameAs wd:Q18711 .
+
+fb:Axel_Disasi owl:sameAs wd:Q23887767 .
+
+fb:Azor_Matusiwa owl:sameAs wd:Q27908084 .
+
+fb:Bart_Verbruggen owl:sameAs wd:Q98682558 .
+
+fb:Bayern_Munich owl:sameAs wd:Q15789 .
+
+fb:Ben_Nelson owl:sameAs wd:Q112304183 .
+
+fb:Ben_White owl:sameAs wd:Q27839155 .
+
+fb:Benoît_Badiashile owl:sameAs wd:Q57704058 .
+
+fb:Bernd_Leno owl:sameAs wd:Q309966 .
+
+fb:Brentford_FC owl:sameAs wd:Q19571 .
+
+fb:Caleb_Okoli owl:sameAs wd:Q99519583 .
+
+fb:Callum_Hudson-Odoi owl:sameAs wd:Q42396622 .
+
+fb:Calvin_Bassey owl:sameAs wd:Q97059010 .
+
+fb:Caoimhín_Kelleher owl:sameAs wd:Q64627435 .
+
+fb:Chelsea_FC owl:sameAs wd:Q9616 .
+
+fb:Country owl:sameAs wd:Q83440 .
+
+fb:Cristhian_Mosquera owl:sameAs wd:Q110458872 .
+
+fb:Crysencio_Summerville owl:sameAs wd:Q60664537 .
+
+fb:Crystal_Palace_FC owl:sameAs wd:Q19467 .
+
+fb:Cédric_Kipré owl:sameAs wd:Q33129919 .
+
+fb:Dan_Friedkin owl:sameAs wd:Q19879918 .
+
+fb:Dan_Neil owl:sameAs wd:Q58756408 .
+
+fb:Daniel_Muñoz owl:sameAs wd:Q56703599 .
+
+fb:David_Moyes owl:sameAs wd:Q5229438 .
+
+fb:David_Møller_Wolfe owl:sameAs wd:Q101095985 .
+
+fb:David_Raya owl:sameAs wd:Q19665907 .
+
+fb:Dean_Henderson owl:sameAs wd:Q28059260 .
+
+fb:Diogo_Dalot owl:sameAs wd:Q26255506 .
+
+fb:Eddie_Howe owl:sameAs wd:Q5336135 .
+
+fb:Elliot_Anderson owl:sameAs wd:Q104762954 .
+
+fb:England owl:sameAs wd:Q21 .
+
+fb:Ethan_Pinnock owl:sameAs wd:Q36999329 .
+
+fb:Everton_FC owl:sameAs wd:Q5794 .
+
+fb:Ezri_Konsa owl:sameAs wd:Q27063854 .
+
+fb:Fabian_Hürzeler owl:sameAs wd:Q115819313 .
+
+fb:Fabian_Schär owl:sameAs wd:Q673691 .
+
+fb:Farhad_Moshiri owl:sameAs wd:Q861168 .
+
+fb:Flynn_Downes owl:sameAs wd:Q34994628 .
+
+fb:Fulham_FC owl:sameAs wd:Q18708 .
+
+fb:Gary_Rowett owl:sameAs wd:Q5525857 .
+
+fb:Guglielmo_Vicario owl:sameAs wd:Q44083681 .
+
+fb:Harry_Maguire owl:sameAs wd:Q165772 .
+
+fb:Hugo_Bueno owl:sameAs wd:Q113578056 .
+
+fb:Ibrahim_Sangaré owl:sameAs wd:Q27832634 .
+
+fb:Ibrahima_Konaté owl:sameAs wd:Q30301454 .
+
+fb:Igor_Julio owl:sameAs wd:Q25983385 .
+
+fb:Igor_Tudor owl:sameAs wd:Q276544 .
+
+fb:Ipswich_Town_FC owl:sameAs wd:Q9653 .
+
+fb:Jack_Stephens owl:sameAs wd:Q6115352 .
+
+fb:Jakub_Stolarczyk owl:sameAs wd:Q113584837 .
+
+fb:James_Trafford owl:sameAs wd:Q107985608 .
+
+fb:Jan_Paul_van_Hecke owl:sameAs wd:Q66828825 .
+
+fb:Joachim_Andersen owl:sameAs wd:Q15943423 .
+
+fb:Joe_Gomez owl:sameAs wd:Q17505113 .
+
+fb:John_Stones owl:sameAs wd:Q2025900 .
+
+fb:Jordan_James owl:sameAs wd:Q109638024 .
+
+fb:Jordan_Pickford owl:sameAs wd:Q13014035 .
+
+fb:José_Sá owl:sameAs wd:Q244997 .
+
+fb:João_Palhinha owl:sameAs wd:Q16236952 .
+
+fb:Julio_Soler owl:sameAs wd:Q121142176 .
+
+fb:Keith_Andrews owl:sameAs wd:Q316704 .
+
+fb:Kenny_Tete owl:sameAs wd:Q14495103 .
+
+fb:Kevin_Danso owl:sameAs wd:Q28868192 .
+
+fb:Kieran_Trippier owl:sameAs wd:Q1083432 .
+
+fb:Kyle_Walker-Peters owl:sameAs wd:Q30128591 .
+
+fb:League owl:sameAs wd:Q223341 .
+
+fb:Leeds_United owl:sameAs wd:Q1128631 .
+
+fb:Leicester_City_FC owl:sameAs wd:Q19481 .
+
+fb:Leif_Davis owl:sameAs wd:Q60194671 .
+
+fb:Levi_Colwill owl:sameAs wd:Q107766903 .
+
+fb:Lewis_Cook owl:sameAs wd:Q17496370 .
+
+fb:Lewis_Dunk owl:sameAs wd:Q6536506 .
+
+fb:Lewis_Hall owl:sameAs wd:Q110487162 .
+
+fb:Liam_Rosenior owl:sameAs wd:Q1336865 .
+
+fb:Liverpool_FC owl:sameAs wd:Q1130849 .
+
+fb:Mads_Hermansen owl:sameAs wd:Q65229910 .
+
+fb:Mads_Roerslev owl:sameAs wd:Q29319616 .
+
+fb:Manager owl:sameAs wd:Q628099 .
+
+fb:Manchester_City_FC owl:sameAs wd:Q50602 .
+
+fb:Manchester_United_FC owl:sameAs wd:Q18656 .
+
+fb:Marc_Cucurella owl:sameAs wd:Q22082505 .
+
+fb:Marco_Silva owl:sameAs wd:Q104591294 .
+
+fb:Marcos_Senesi owl:sameAs wd:Q23413053 .
+
+fb:Matt_Doherty owl:sameAs wd:Q4167438 .
+
+fb:Matthijs_de_Ligt owl:sameAs wd:Q26259982 .
+
+fb:Matty_Cash owl:sameAs wd:Q23041943 .
+
+fb:Maxence_Lacroix owl:sameAs wd:Q60286976 .
+
+fb:Maximilian_Kilman owl:sameAs wd:Q64028217 .
+
+fb:Michael_Carrick owl:sameAs wd:Q29566 .
+
+fb:Mikel_Arteta owl:sameAs wd:Q185572 .
+
+fb:Nathan_Aké owl:sameAs wd:Q1755683 .
+
+fb:Neco_Williams owl:sameAs wd:Q72921909 .
+
+fb:Newcastle_United_FC owl:sameAs wd:Q18716 .
+
+fb:Nick_Pope owl:sameAs wd:Q15999945 .
+
+fb:Nottingham_Forest_FC owl:sameAs wd:Q19490 .
+
+fb:Noussair_Mazraoui owl:sameAs wd:Q26266244 .
+
+fb:Nuno_Espírito_Santo owl:sameAs wd:Q372372 .
+
+fb:Oliver_Glasner owl:sameAs wd:Q874777 .
+
+fb:Pep_Guardiola owl:sameAs wd:Q164038 .
+
+fb:Person owl:sameAs wd:Q5 .
+
+fb:Piero_Hincapié owl:sameAs wd:Q101053044 .
+
+fb:Player owl:sameAs wd:Q937857 .
+
+fb:Premier_League owl:sameAs wd:Q9448 .
+
+fb:Radu_Drăgușin owl:sameAs wd:Q86835512 .
+
+fb:Rico_Henry owl:sameAs wd:Q18637460 .
+
+fb:Rob_Edwards owl:sameAs wd:Q2067092 .
+
+fb:Robert_Sánchez owl:sameAs wd:Q56043276 .
+
+fb:Ross_Barkley owl:sameAs wd:Q326240 .
+
+fb:Ryan_Manning owl:sameAs wd:Q28101945 .
+
+fb:Rúben_Dias owl:sameAs wd:Q21621168 .
+
+fb:Santiago_Bueno owl:sameAs wd:Q25367692 .
+
+fb:Sepp_van_den_Berg owl:sameAs wd:Q50398907 .
+
+fb:Southampton_FC owl:sameAs wd:Q18732 .
+
+fb:Sven_Botman owl:sameAs wd:Q56183905 .
+
+fb:Taiwo_Awoniyi owl:sameAs wd:Q20932574 .
+
+fb:Team owl:sameAs wd:Q528227 .
+
+fb:Tijjani_Reijnders owl:sameAs wd:Q39500352 .
+
+fb:Tonda_Eckert owl:sameAs wd:Q136700977 .
+
+fb:Tosin_Adarabioyo owl:sameAs wd:Q21620666 .
+
+fb:Tottenham_Hotspur_FC owl:sameAs wd:Q18741 .
+
+fb:Tyrick_Mitchell owl:sameAs wd:Q96943831 .
+
+fb:Tyrone_Mings owl:sameAs wd:Q16235643 .
+
+fb:Unai_Emery owl:sameAs wd:Q295610 .
+
+fb:Victor_Lindelöf owl:sameAs wd:Q4125587 .
+
+fb:Virgil_van_Dijk owl:sameAs wd:Q133903 .
+
+fb:Vítor_Pereira owl:sameAs wd:Q7944809 .
+
+fb:Wataru_Endo owl:sameAs wd:Q10526787 .
+
+fb:West_Ham_United_FC owl:sameAs wd:Q18747 .
+
+fb:William_Saliba owl:sameAs wd:Q56868118 .
+
+fb:Wolverhampton_Wanderers_FC owl:sameAs wd:Q19500 .
+
+fb:birthDate owl:equivalentProperty wdt:P569 .
+
+fb:competesIn owl:equivalentProperty wdt:P118 .
+
+fb:foundedIn owl:equivalentProperty wdt:P571 .
+
+fb:hasStadium owl:equivalentProperty wdt:P115 .
+
+fb:locatedIn owl:equivalentProperty wdt:P17 .
+
+fb:managedBy owl:equivalentProperty wdt:P286 .
+
+fb:nationality owl:equivalentProperty wdt:P27 .
+
+fb:playsFor owl:equivalentProperty wdt:P54 .
+
+fb:position owl:equivalentProperty wdt:P413 .
+
+fb:Đorđe_Petrović owl:sameAs wd:Q137822515 .
+

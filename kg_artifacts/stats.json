@@ -1,0 +1,66 @@
+{
+  "total_triples": 68723,
+  "unique_entities": 23952,
+  "unique_subjects": 17405,
+  "unique_predicates": 1166,
+  "top_10_predicates": [
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P54",
+      "short_name": "P54",
+      "count": 31901
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P27",
+      "short_name": "P27",
+      "count": 3269
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P569",
+      "short_name": "P569",
+      "count": 2703
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P413",
+      "short_name": "P413",
+      "count": 2698
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P21",
+      "short_name": "P21",
+      "count": 2695
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P19",
+      "short_name": "P19",
+      "count": 2618
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P710",
+      "short_name": "P710",
+      "count": 1739
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P1923",
+      "short_name": "P1923",
+      "count": 1352
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P1532",
+      "short_name": "P1532",
+      "count": 1070
+    },
+    {
+      "predicate": "http://www.wikidata.org/prop/direct/P5138",
+      "short_name": "P5138",
+      "count": 744
+    }
+  ],
+  "entity_type_distribution": {
+    "http://example.org/football/Person": 118,
+    "http://example.org/football/Player": 98,
+    "http://example.org/football/Manager": 20,
+    "http://example.org/football/Team": 20,
+    "http://example.org/football/League": 1,
+    "http://example.org/football/Country": 1
+  }
+}

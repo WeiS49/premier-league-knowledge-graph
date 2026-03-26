@@ -1,0 +1,108 @@
+@prefix fb: <http://example.org/football/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+fb:birthDate a owl:DatatypeProperty ;
+    rdfs:label "birth date" ;
+    rdfs:domain fb:Person ;
+    rdfs:range xsd:date .
+
+fb:capacity a owl:DatatypeProperty ;
+    rdfs:label "capacity" ;
+    rdfs:domain fb:Stadium ;
+    rdfs:range xsd:integer .
+
+fb:competesIn a owl:ObjectProperty ;
+    rdfs:label "competes in" ;
+    rdfs:domain fb:Team ;
+    rdfs:range fb:League .
+
+fb:foundedIn a owl:DatatypeProperty ;
+    rdfs:label "founded in" ;
+    rdfs:domain fb:Team ;
+    rdfs:range xsd:string .
+
+fb:hasPlayer a owl:ObjectProperty ;
+    rdfs:domain fb:Team ;
+    rdfs:range fb:Player ;
+    owl:inverseOf fb:playsFor .
+
+fb:hasStadium a owl:ObjectProperty ;
+    rdfs:label "has stadium" ;
+    rdfs:domain fb:Team ;
+    rdfs:range fb:Stadium .
+
+fb:jerseyNumber a owl:DatatypeProperty ;
+    rdfs:domain fb:Player ;
+    rdfs:range xsd:integer .
+
+fb:locatedIn a owl:ObjectProperty ;
+    rdfs:label "located in" ;
+    rdfs:comment "Domain can be Team or Stadium" ;
+    rdfs:range fb:Country .
+
+fb:managedBy a owl:ObjectProperty ;
+    rdfs:label "managed by" ;
+    rdfs:domain fb:Team ;
+    rdfs:range fb:Manager .
+
+fb:name a owl:DatatypeProperty ;
+    rdfs:label "name" ;
+    rdfs:range xsd:string .
+
+fb:nationality a owl:ObjectProperty ;
+    rdfs:label "has nationality" ;
+    rdfs:domain fb:Person ;
+    rdfs:range fb:Country .
+
+fb:ontology a owl:Ontology ;
+    rdfs:label "Premier League Football Ontology" ;
+    rdfs:comment "An ontology for representing Premier League football knowledge" .
+
+fb:position a owl:DatatypeProperty ;
+    rdfs:label "position" ;
+    rdfs:domain fb:Player ;
+    rdfs:range xsd:string .
+
+fb:wonAward a owl:ObjectProperty ;
+    rdfs:label "won award" ;
+    rdfs:domain fb:Person ;
+    rdfs:range fb:Award .
+
+fb:Award a owl:Class ;
+    rdfs:label "Award" .
+
+fb:Competition a owl:Class ;
+    rdfs:label "Competition" .
+
+fb:League a owl:Class ;
+    rdfs:label "League" ;
+    rdfs:subClassOf fb:Competition .
+
+fb:Manager a owl:Class ;
+    rdfs:label "Manager" ;
+    rdfs:subClassOf fb:Person .
+
+fb:playsFor a owl:ObjectProperty ;
+    rdfs:label "plays for" ;
+    rdfs:domain fb:Player ;
+    rdfs:range fb:Team .
+
+fb:Country a owl:Class ;
+    rdfs:label "Country" .
+
+fb:Stadium a owl:Class ;
+    rdfs:label "Stadium" .
+
+fb:Player a owl:Class ;
+    rdfs:label "Player" ;
+    rdfs:subClassOf fb:Person .
+
+fb:Person a owl:Class ;
+    rdfs:label "Person" .
+
+fb:Team a owl:Class ;
+    rdfs:label "Team" ;
+    rdfs:comment "A football team/club" .
+
