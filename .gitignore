@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Data files (too large for git)
+data/raw/
+data/processed/
+kg_artifacts/expanded.nt
+kge_data/
+
+# Model outputs
+models/
+*.pkl
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Lab docs (reference only, not part of submission)
+docs/
+
+# Claude
+.claude/
