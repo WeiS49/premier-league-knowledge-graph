@@ -2,6 +2,15 @@
 
 A complete knowledge graph pipeline for Premier League football data, built as a final project for the ESILV Web Mining course. Covers the full lifecycle: data acquisition, KB construction, entity alignment, Wikidata expansion, SWRL reasoning, knowledge graph embeddings, and RAG-based question answering.
 
+## Authors
+
+| Name | Role |
+|------|------|
+| **SHI Weihua** | Data acquisition, KB expansion, KGE training, Streamlit UI |
+| **ZULFIQAR Marwa** | KG construction, SWRL reasoning, RAG pipeline, report |
+
+**Repository**: [github.com/WeiS49/premier-league-knowledge-graph](https://github.com/WeiS49/premier-league-knowledge-graph)
+
 ## Project Structure
 
 ```
@@ -91,7 +100,13 @@ python -m src.rag.rag_pipeline --run-all   # needs ANTHROPIC_API_KEY
 | KGE best model | ComplEx (MRR: 0.053, Hits@10: 0.105) |
 | RAG queries answered | 2/5 (limited by KB coverage) |
 
-See `reports/final_report.md` for the full analysis.
+See `reports/WebDataming_Report_Final.pdf` for the full analysis.
+
+## Screenshot
+
+![t-SNE visualization of entity embeddings](reports/tsne_embeddings.png)
+
+*t-SNE projection of 3,000 entity embeddings from the ComplEx model. Teams (red) cluster separately from other entities.*
 
 ## Data Sources
 
